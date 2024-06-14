@@ -1,0 +1,20 @@
+.contacts {
+    text-align: center;
+}
+
+.contacts h1 {
+    font-size: 2em;
+    margin-bottom: 1em;
+    
+}
+
+.imageContainer {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.text {
+    text-align: center;
+    font-weight: bold;
+}

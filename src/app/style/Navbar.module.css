@@ -1,0 +1,37 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 1.2em;
+    margin-bottom: 2em;
+    background-color: #18181C;
+    color: #ffffff;
+    width: 100%;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo h1 {
+    margin-left: 1em;
+}
+
+.login {
+    text-align: right;
+}
+
+.bar {
+    margin-left: 20px;
+    height: 25px;
+    width: 1px;   
+    margin-bottom: 5px;
+}
+
+.store {
+    margin-left: 18px;
+    margin-bottom: 5px;
+}
+
